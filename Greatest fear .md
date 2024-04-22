@@ -3,5 +3,13 @@
  ## some key facts  about  ethiopia 
  * located in the horn of africa region
  * history and culture
- * economy and demogrphics 
+ * economy and demogrphics
+ * languages
+
 # this is link about ethiopian life  [culture  ](https://www.youtube.com/watch?v=iH4e3Zb7Elo.com)  
+| culture      |  descreption |
+| ----------------|  ------------|     
+|
+| 
+
+
